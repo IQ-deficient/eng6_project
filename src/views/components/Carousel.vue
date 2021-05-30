@@ -12,14 +12,13 @@
             <div class="row justify-content-between align-items-center">
                 <div class="col-lg-6 mb-5 mb-lg-0">
                     <h1 class="text-white font-weight-light">Introduction</h1>
-                    <p class="lead text-white mt-3">
-                        Montenegro is a Balkan country with rugged mountains,
-                        medieval villages and a narrow strip of beaches along
-                        its Adriatic coastline. The Bay of Kotor, resembling a
-                        fjord, is dotted with coastal churches and fortified
-                        towns such as Kotor and Herceg Novi. Durmitor National
-                        Park, home to bears and wolves, encompasses limestone
-                        peaks, glacial lakes and 1,300m-deep Tara River Canyon.
+                    <p class="lead text-white mt-2">
+                        This is a stunning country in Southeast Europe that lies on the shores of the
+                      Adriatic Sea. It borders Serbia to the east and northeast, Croatia and Bosnia & Herzegovina
+                      to the west and northwest, and Albania to the southeast. Although small in territory,
+                      Montenegro is rich in natural beauty and full of contrasts. At a distance of only 100
+                      kilometers there are three different natural environments. It's safe to say that
+                      Montenegro is at the same time Mediterranean, Adriatic and mountainous.
                     </p>
                     <!-- <a href="https://demos.creative-tim.com/argon-design-system/docs/components/alerts.html"
                        class="btn btn-white mt-4">See all components</a> -->

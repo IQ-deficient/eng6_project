@@ -21,7 +21,7 @@
                             class="lead text-dark mt-4 mb-5"
                             style="font-size: 20px"
                         >
-                            Bursting at the seams with majestic mountains,
+                            Bursting with majestic mountains,
                             breathtaking beaches and larger-than-life locals,
                             minuscule Montenegro proves once and for all that
                             good things do indeed come in small packages.
