@@ -18,7 +18,7 @@
                     <div class="col px-0">
                         <div class="row">
                             <div class="col-lg-6">
-                                <h1 class="display-1 text-white">
+                                <h1 class="display-2 text-white">
                                     Central region of Montenegro
                                     <!-- <span>completed with examples</span> -->
                                 </h1>
@@ -110,27 +110,24 @@
         <section class="section section-lg">
             <div class="container">
                 <div class="row row-grid justify-content-center">
-                    <div class="col-lg-8 text-center">
-                        <h2 class="display-3">
-                            Do you love this awesome
-                            <!-- <span class="text-success"
-                                >Design System for Bootstrap 4?</span
-                            > -->
-                        </h2>
+                    <div class="col-lg-10 text-center">
+                        <!--                        <h2 class="display-3">-->
+                        <!--                            Do you love this awesome-->
+                        <!--                            <span class="text-primary">xddd</span>-->
+                        <!--                        </h2>-->
                         <p class="lead">
-                            Cause if you do, it can be yours for FREE. Hit the
-                            button below to navigate to Creative Tim where you
-                            can find the Design System in HTML. Start a new
-                            project or give an old Bootstrap project a new look!
+                            The central part of Montenegro is rich in natural beauty, especially rivers, national parks,
+                            as well as very beautiful buildings.
                         </p>
                         <p>
-                            Lorem, ipsum dolor sit amet consectetur adipisicing
-                            elit. Unde voluptatum enim reiciendis maxime
-                            repudiandae nihil praesentium reprehenderit! Saepe
-                            dolorem exercitationem, alias animi sed nulla
-                            quibusdam accusantium magnam omnis doloremque
-                            voluptates, rerum quasi veniam iusto fugit aperiam
-                            maiores. Laborum, fugiat qui?
+                            Podgorica, as the capital, is located in the heart of Montenegro, due to the mostly nice
+                            weather throughout the year, it is very attractive and appealing to people. One of the
+                            places to be singled out is the hill Gorica, where people from Podgorica can find peace and
+                            quiet, the right place for recreation, for walking, as well as for conversation. Also, as we
+                            said that Montenegro is rich in rivers, the rivers Morača and Ribnica flow through the city,
+                            while in the vicinity flow Zeta, Cijevna, and Sitnica. Not far from Podgorica, in Tuzi,
+                            there are Montenegrin Niagara Falls. One of the most beautiful natural beauties in
+                            Montenegro.
                         </p>
                         <!-- <div class="btn-wrapper">
                             <a
@@ -246,7 +243,7 @@
                     <div class="col-md-6 order-lg-2">
                         <div class="card bg-default shadow border-1">
                             <img
-                                v-lazy="'img/theme/sea-2.jpg'"
+                                v-lazy="'img/theme/cetinje.jpg'"
                                 class="card-img-top"
                             />
                         </div>
@@ -262,21 +259,24 @@
                                 rounded
                             ></icon> -->
 
-                            <h3>Our customers</h3>
-                            <p class="lead">
-                                Don't let your uses guess by attaching tooltips
-                                and popoves to any element. Just make sure you
-                                enable them first via JavaScript.
-                            </p>
+                            <h3 class="text-primary">Cetinje</h3>
+                            <!--                            <p class="lead">-->
+                            <!--                                Don't let your uses guess by attaching tooltips-->
+                            <!--                                and popoves to any element. Just make sure you-->
+                            <!--                                enable them first via JavaScript.-->
+                            <!--                            </p>-->
+                            <!--                            <p>-->
+                            <!--                                The kit comes with three pre-built pages to help-->
+                            <!--                                you get started faster. You can change the text-->
+                            <!--                                and images and you're good to go.-->
+                            <!--                            </p>-->
                             <p>
-                                The kit comes with three pre-built pages to help
-                                you get started faster. You can change the text
-                                and images and you're good to go.
-                            </p>
-                            <p>
-                                The kit comes with three pre-built pages to help
-                                you get started faster. You can change the text
-                                and images and you're good to go.
+                                Cetinje is the capital of Montenegro. A city of Montenegrin history, museums, art
+                                academies, former diplomatic missions, founded at the beginning of the 20th century. He
+                                keeps the secrets of the Petrovic ruling family and Christian relics in monasteries.
+                                There is always a live theater on the streets, held by art students or locals with an
+                                unusual spirit. Favorite picnic areas are Rijeka Crnojevica and the village Njegusi,
+                                famous for the production of cheese and meat.
                             </p>
                             <!-- <a
                                 href="#"
@@ -288,12 +288,38 @@
                 </div>
             </div>
         </section>
+        <section class="section bg-secondary">
+            <div class="container">
+                <div class="row row-grid align-items-center">
+                    <div class="col-md-6 order-lg-2">
+                        <div class="card bg-default shadow border-1">
+                            <img
+                                v-lazy="'img/theme/niksic.jpg'"
+                                class="card-img-top"
+                            />
+                        </div>
+                    </div>
+                    <div class="col-md-6 order-lg-1">
+                        <div class="pl-md-5">
+                            <h3 class="text-primary">Niksic</h3>
+                            <p>
+                                Niksic is widely known for beer, steel and strong bonds of friendship. An industrial and
+                                student city, it has recently hosted Lake Fest, a three-day pop-rock music festival near
+                                Lake Krupac. Favorite picnic areas are the hill Trebjesa, Lake Krupac, Kapetan and
+                                Grahovo, as well as the ski center Vucje.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <section class="section section-lg">
             <div class="container">
                 <div class="row row-grid align-items-center">
                     <div class="col-md-6 order-md-1">
                         <img
-                            src="img/theme/promo-1.png"
+                            src="img/theme/ostrog.jpg"
                             class="img-fluid"
                         />
                     </div>
@@ -307,29 +333,33 @@
                                 shadow
                                 rounded
                             ></icon> -->
-                            <h3>Awesome features [REMOVE THIS IF NOT NECESSARY]</h3>
+                            <h3>Ostrog Monastery</h3>
                             <p>
-                                The kit comes with three pre-built pages to help
-                                you get started faster. You can change the text
-                                and images and you're good to go. Lorem ipsum
-                                dolor sit amet, consectetur adipisicing elit.
-                                Ab, modi dolores esse sapiente nulla sequi quam
-                                odio reprehenderit excepturi, quos aut facere
-                                itaque! Ab illum ex iusto, necessitatibus
-                                reprehenderit recusandae.
+                                Also, one of the most beautiful places in the central part of Montenegro is the
+                                monastery Ostrog. It is also one of the most popular pilgrimage sites in the world for
+                                Orthodox Christians. It is considered one of the most important monasteries in the
+                                Balkans, as well as the most visited Orthodox shrine in all of Europe. Located in a
+                                large rock called "Ostroška greda", at 900 meters above sea level in the municipality of
+                                Danilovgrad, the monastery Ostrog is often described as a true masterpiece of nature and
+                                humanity. It was founded in the 17th century as part of Saint Basil of Ostrog, who was
+                                buried inside the monastery and is believed to have miraculous powers for many pilgrims
+                                who come to visit the Ostrog monastery. Every year, more than a few hundred thousand
+                                people from all over the world, of various nationalities and religions visit. During the
+                                summer period alone, more than 300,000 visitors come to find their peace and salvation
+                                in an authentically beautiful monastery.
                             </p>
-                            <p>
-                                Lorem ipsum dolor sit amet consectetur
-                                adipisicing elit. Molestiae optio vel, harum
-                                dicta numquam recusandae cumque nam? Neque cum
-                                omnis voluptatibus voluptatem, deserunt, quod
-                                quos laudantium laborum accusamus officia
-                                possimus sequi. Odio perferendis voluptatum vel
-                                consectetur culpa eaque est animi dicta cum
-                                voluptate totam, quo accusamus aperiam dolor
-                                aut, dolorem aliquid magni dolorum doloribus
-                                eius nam eos nobis cumque. Animi!
-                            </p>
+                            <!--                            <p>-->
+                            <!--                                Lorem ipsum dolor sit amet consectetur-->
+                            <!--                                adipisicing elit. Molestiae optio vel, harum-->
+                            <!--                                dicta numquam recusandae cumque nam? Neque cum-->
+                            <!--                                omnis voluptatibus voluptatem, deserunt, quod-->
+                            <!--                                quos laudantium laborum accusamus officia-->
+                            <!--                                possimus sequi. Odio perferendis voluptatum vel-->
+                            <!--                                consectetur culpa eaque est animi dicta cum-->
+                            <!--                                voluptate totam, quo accusamus aperiam dolor-->
+                            <!--                                aut, dolorem aliquid magni dolorum doloribus-->
+                            <!--                                eius nam eos nobis cumque. Animi!-->
+                            <!--                            </p>-->
                             <!-- <ul class="list-unstyled mt-5">
                                 <li class="py-2">
                                     <div class="d-flex align-items-center">
@@ -371,6 +401,76 @@
                                     </div>
                                 </li>
                             </ul> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section section-lg">
+            <div class="container">
+                <div class="row row-grid align-items-center">
+                    <div class="col-md-6 order-md-2">
+                        <img
+                            src="img/theme/lovcen.jpg"
+                            class="img-fluid"
+                        />
+                    </div>
+                    <div class="col-md-6 order-md-1">
+                        <div class="pr-md-5">
+                            <p>
+                                Also, we said that the central part is rich in national parks, and it includes the
+                                Lovcen National Park and Skadar Lake National Park.
+                                Lovcen National Park encompasses the central and highest part of the mountain of the
+                                same name, which for Montenegrins is a symbol of freedom and a "holy altar". On Jezerski
+                                vrh, in the realm of lightning and thunder, the mausoleum of Peter the Second Petrovic
+                                Njegos, bishop, poet and ruler of Montenegro (1813-1851), was erected. Climbing to the
+                                mausoleum is the crown of a visit to the National Park, and this imposing building can
+                                be reached by road from Cetinje, about 20 km long, and then by overcoming 461 steps to
+                                the top of the mountain. Lovcen is known for its lookouts from all sides - towards the
+                                sea, Lake Skadar or the high mountains in the north. Everywhere you look you will
+                                experience a unique and unforgettable visual impression. The points on Lovcen from which
+                                the Montenegrin beauties can be seen are numerous: Jezerski vrh, Stirovnik, the old road
+                                from Krstac to the winter resort of Ivanova korita; from the Austrian strategic roads
+                                that led to the tops of the mountains, from the Kotor serpentines - an ancient road that
+                                winds like a snake to the sides of Lovcen. It is a kind of design and construction
+                                phenomenon. On the steep slope of Lovcen, exposed to the Bay of Boka - serpentines are a
+                                unique experience.
+                            </p>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section section-lg">
+            <div class="container">
+                <div class="row row-grid align-items-center">
+                    <div class="col-md-6 order-md-1">
+                        <img
+                            src="img/theme/skadar.jpg"
+                            class="img-fluid"
+                        />
+                    </div>
+                    <div class="col-md-6 order-md-2">
+                        <div class="pr-md-5">
+                            <h3>Skadar</h3>
+                            <p>
+                                Lake Skadar is the largest freshwater area in the Balkans. Due to its geographical
+                                position and the characteristics of the sub-Mediterranean climate, it is one of the most
+                                important habitats of wetland birds in Europe in winter. About 280 species of birds live
+                                on the lake, and a rare specimen of the curly pelican is a trademark of the National
+                                Park. On the shores of the lake are two small towns - the old urban core, specific
+                                architecture, places of great importance for the development of the Montenegrin state:
+                                Virpazar and River Crnojevic. Today, both settlements are recognizable by the
+                                restaurants that serve traditional specialties. The southern hinterland of the lake
+                                (Crmnica) is known for the best wine in Montenegro, which in combination with smoked
+                                lake carp will satisfy even the most picky lovers of good food. The lake also has a
+                                number of extraordinary beaches, among which those in the village of Murici stand out,
+                                no less attractive than the coastal beaches.
+                            </p>
+
                         </div>
                     </div>
                 </div>

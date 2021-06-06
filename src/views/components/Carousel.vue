@@ -14,11 +14,11 @@
                     <h1 class="text-white font-weight-light">Introduction</h1>
                     <p class="lead text-white mt-2">
                         This is a stunning country in Southeast Europe that lies on the shores of the
-                      Adriatic Sea. It borders Serbia to the east and northeast, Croatia and Bosnia & Herzegovina
-                      to the west and northwest, and Albania to the southeast. Although small in territory,
-                      Montenegro is rich in natural beauty and full of contrasts. At a distance of only 100
-                      kilometers there are three different natural environments. It's safe to say that
-                      Montenegro is at the same time Mediterranean, Adriatic and mountainous.
+                        Adriatic Sea. It borders Serbia to the east and northeast, Croatia and Bosnia & Herzegovina
+                        to the west and northwest, and Albania to the southeast. Although small in territory,
+                        Montenegro is rich in natural beauty and full of contrasts. At a distance of only 100
+                        kilometers there are three different natural environments. It's safe to say that
+                        Montenegro is at the same time Mediterranean, Adriatic and mountainous.
                     </p>
                     <!-- <a href="https://demos.creative-tim.com/argon-design-system/docs/components/alerts.html"
                        class="btn btn-white mt-4">See all components</a> -->
@@ -42,13 +42,18 @@
                             <b-carousel-slide
                                 img-src="img/theme/1403327.jpg"
                             ></b-carousel-slide>
-                            
+
                             <b-carousel-slide
                                 img-src="img/theme/1403266.jpg"
                             ></b-carousel-slide>
                             <b-carousel-slide
                                 img-src="img/theme/wp2222895-montenegro-wallpapers.jpg"
                             ></b-carousel-slide>
+
+                            <!-- meme -->
+<!--                            <b-carousel-slide-->
+                            <!--                                img-src="img/theme/chad.png"-->
+                            <!--                            ></b-carousel-slide>-->
                         </b-carousel>
                     </div>
                 </div>
@@ -57,8 +62,8 @@
     </section>
 </template>
 <script>
-import { BCarousel } from "bootstrap-vue/esm/components/carousel/carousel";
-import { BCarouselSlide } from "bootstrap-vue/esm/components/carousel/carousel-slide";
+import {BCarousel} from "bootstrap-vue/esm/components/carousel/carousel";
+import {BCarouselSlide} from "bootstrap-vue/esm/components/carousel/carousel-slide";
 
 export default {
     components: {

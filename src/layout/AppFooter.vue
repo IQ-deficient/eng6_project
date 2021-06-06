@@ -95,7 +95,7 @@
                     </a>
                 </div>
             </div> -->
-            <hr />
+            <hr/>
             <div class="row align-items-center justify-content-md-between">
                 <div class="col-md-6">
                     <div class="copyright">
@@ -197,6 +197,21 @@
                                 title="Instagram"
                             >
                                 <i class="fa fa-instagram"></i>
+                                <!-- <span class="nav-link-inner--text d-lg-none"
+                                    >Instagram</span
+                                > -->
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a
+                                class="nav-link nav-link-icon"
+                                href="img/theme/chad.png"
+                                target="_blank"
+                                rel="noopener"
+                                data-toggle="tooltip"
+                                title="Easter egg"
+                            >
+                                <i class="fa fa-image"></i>
                                 <!-- <span class="nav-link-inner--text d-lg-none"
                                     >Instagram</span
                                 > -->

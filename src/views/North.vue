@@ -18,11 +18,11 @@
                     <div class="col px-0">
                         <div class="row">
                             <div class="col-lg-6">
-                                <h1 class="display-1 text-white">
+                                <h1 class="display-2 text-white">
                                     Northern Part of Montenegro
                                     <!-- <span>completed with examples</span> -->
                                 </h1>
-                                <p>By: Milena</p>
+                                <p>By: Milena Medojevic</p>
                                 <!-- <div class="btn-wrapper">
                                     <base-button tag="a"
                                                  href="https://demos.creative-tim.com/argon-design-system/docs/components/alerts.html"
@@ -309,7 +309,7 @@
                 </div>
             </div>
         </section>
-        
+
 
         <!-- <section class="section section-lg">
             <div class="container">

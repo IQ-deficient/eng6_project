@@ -18,8 +18,12 @@
                     <div class="col px-0">
                         <div class="row">
                             <div class="col-lg-6">
-                                <h1 class="display-1 text-white">
-                                    Coast of Montenegro
+                                <h1 class="display-2 text-white">
+                                    Coast of
+                                    <h1 class="display-2 text-white">
+                                        Montenegro
+                                        <!-- <span>completed with examples</span> -->
+                                    </h1>
                                     <!-- <span>completed with examples</span> -->
                                 </h1>
                                 <p>By: Darko Tomasevic</p>
@@ -37,7 +41,7 @@
                                                  type="white"
                                                  icon="ni ni-cloud-download-95">
                                         Download HTML
-                                    </base-button> 
+                                    </base-button>
                                 </div>-->
                             </div>
                         </div>
@@ -107,7 +111,7 @@
                 </div>
             </div>
         </section> -->
-        <section class="section bg-secondary">
+        <section class="section bg-white">
             <div class="container">
                 <div class="row row-grid align-items-center">
                     <div class="col-md-6">
@@ -136,13 +140,12 @@
                                 <h4
                                     class="display-3 font-weight-bold text-white"
                                 >
-                                    Design System
+                                    <!--                  Design System-->
                                 </h4>
                                 <p class="lead text-italic text-white">
-                                    The Arctic Ocean freezes every winter and
-                                    much of the sea-ice then thaws every summer,
-                                    and that process will continue whatever
-                                    happens.
+                                    The towns on the Montenegrin coast will definitely seduce you with their beauty,
+                                    beaches, friendly
+                                    locals, diversity and the Mediterranean air. There are 6 towns...
                                 </p>
                             </blockquote>
                         </div>
@@ -158,22 +161,25 @@
                                 rounded
                             ></icon> -->
 
-                            <h3>Our customers</h3>
+                            <!--              <h3>Our customers</h3>-->
                             <p class="lead">
-                                Don't let your uses guess by attaching tooltips
-                                and popoves to any element. Just make sure you
-                                enable them first via JavaScript.
+                                From Ulcinj (which used to be a pirate town), Bar (a town rich in historic monuments,
+                                with the new, modern city centre, port, marina), Budva (which represents the tourist
+                                metropolis of Montenegro), through Tivat (calm town with a world class marina for
+                                superyachts), Kotor (protected by UNESCO as part of the world cultural heritage), up to
+                                Herceg Novi (rich in greenery, flowers, stairs and beautiful historic structures), each
+                                town tells a story of its own.
                             </p>
-                            <p>
-                                The kit comes with three pre-built pages to help
-                                you get started faster. You can change the text
-                                and images and you're good to go.
-                            </p>
-                            <p>
-                                The kit comes with three pre-built pages to help
-                                you get started faster. You can change the text
-                                and images and you're good to go.
-                            </p>
+                            <!--              <p>-->
+                            <!--                The kit comes with three pre-built pages to help-->
+                            <!--                you get started faster. You can change the text-->
+                            <!--                and images and you're good to go.-->
+                            <!--              </p>-->
+                            <!--              <p>-->
+                            <!--                The kit comes with three pre-built pages to help-->
+                            <!--                you get started faster. You can change the text-->
+                            <!--                and images and you're good to go.-->
+                            <!--              </p>-->
                             <!-- <a
                                 href="#"
                                 class="font-weight-bold text-warning mt-5"
@@ -184,14 +190,17 @@
                 </div>
             </div>
         </section>
-        <section class="section section-lg">
+        <section class="section section-lg bg-secondary">
             <div class="container">
                 <div class="row row-grid align-items-center">
                     <div class="col-md-6 order-md-2">
-                        <img
-                            src="img/theme/promo-1.png"
-                            class="img-fluid floating"
-                        />
+                        <div class="shadow card-deck">
+                            <img
+                                src="img/theme/budva.jpg"
+                                class="img-fluid"
+                            />
+                        </div>
+                        <!--            floating-->
                     </div>
                     <div class="col-md-6 order-md-1">
                         <div class="pr-md-5">
@@ -203,28 +212,20 @@
                                 shadow
                                 rounded
                             ></icon> -->
-                            <h3>Awesome features [REMOVE THIS IF NOT NECESSARY]</h3>
+                            <h3 class="text-primary">Budva</h3>
                             <p>
-                                The kit comes with three pre-built pages to help
-                                you get started faster. You can change the text
-                                and images and you're good to go. Lorem ipsum
-                                dolor sit amet, consectetur adipisicing elit.
-                                Ab, modi dolores esse sapiente nulla sequi quam
-                                odio reprehenderit excepturi, quos aut facere
-                                itaque! Ab illum ex iusto, necessitatibus
-                                reprehenderit recusandae.
+                                It covers the area from Buljarica, through Petrovac and St. Stefan, all the way to Jaz
+                                beach. The main
+                                beach, Slovenska Plaža, curls a few kilometres east from the Old Town, but far nicer are
+                                the sandy
+                                Mogren beaches, west of the Old Town. Budva has its own Hawaii – an island opposite the
+                                city with
+                                beautiful beaches and seafood specialties. In the evening, on the promenade along the
+                                beach you will be
+                                overwhelmed by the loud music that comes from the cafes and discos.
                             </p>
                             <p>
-                                Lorem ipsum dolor sit amet consectetur
-                                adipisicing elit. Molestiae optio vel, harum
-                                dicta numquam recusandae cumque nam? Neque cum
-                                omnis voluptatibus voluptatem, deserunt, quod
-                                quos laudantium laborum accusamus officia
-                                possimus sequi. Odio perferendis voluptatum vel
-                                consectetur culpa eaque est animi dicta cum
-                                voluptate totam, quo accusamus aperiam dolor
-                                aut, dolorem aliquid magni dolorum doloribus
-                                eius nam eos nobis cumque. Animi!
+                                Attractions: Sveti Stefan, Sveti Nikola island, Milocer
                             </p>
                             <!-- <ul class="list-unstyled mt-5">
                                 <li class="py-2">
@@ -273,120 +274,273 @@
             </div>
         </section>
 
-        <section class="section section section-shaped my-0 overflow-hidden">
-            <div class="shape shape-style-1 bg-gradient-default shape-skew">
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-            <div class="container py-0">
+        <section class="section section-lg">
+            <div class="container">
                 <div class="row row-grid align-items-center">
-                    <div class="col-md-6 order-lg-2 ml-lg-auto">
-                        <div class="position-relative pl-md-6">
+                    <div class="col-md-6 order-md-2">
+                        <div class="shadow card-deck">
                             <img
-                                src="img/theme/sea-2.jpg"
-                                class="img-center img-fluid"
+                                src="img/theme/kotor.jpg"
+                                class="img-fluid"
                             />
                         </div>
                     </div>
-                    <div class="col-lg-6 order-lg-1">
-                        <div class="d-flex px-2">
-                            <div>
-                                <!-- <icon
-                                    name="ni ni-building"
-                                    size="lg"
-                                    class="bg-gradient-white"
-                                    color="primary"
-                                    shadow
-                                    rounded
-                                ></icon> -->
-                            </div>
-                            <div class="pl-2 mb-5">
-                                <h4 class="display-3 text-white">
-                                    Modern Interface
-                                </h4>
-                                <p class="text-white">
-                                    The Arctic Ocean freezes every winter and
-                                    much of the sea-ice then thaws every summer,
-                                    and that process will continue whatever
-                                    happens.
-                                </p>
-                                <p class="text-white">
-                                    Lorem ipsum dolor sit, amet consectetur
-                                    adipisicing elit. Dolorem atque neque
-                                    dolorum, quam sapiente inventore autem
-                                    fugiat quae mollitia at excepturi porro
-                                    culpa! Voluptates blanditiis veritatis
-                                    impedit dolore! Culpa voluptatibus repellat
-                                    praesentium. Ipsam culpa aliquam esse odit,
-                                    quam nesciunt maiores excepturi, qui
-                                    quibusdam ipsa eos accusamus? Minus deserunt
-                                    nostrum necessitatibus!
-                                </p>
-                            </div>
+                    <div class="col-md-6 order-md-1">
+                        <div class="pr-md-5">
+                            <h3 class="text-primary">Kotor</h3>
+                            <p>
+                                Kotor is sattled between the gray mountains and the sea, wrapped with high and wide
+                                ramparts. Kotor’s charms are best appreciated by heading to the Old Town, without map,
+                                and getting lost in the maze of streets. You’ll likely enter through the Sea Gate and
+                                exits to the main square, Trg od Oružja. There are several churches worth looking at,
+                                also St Tryphon’s Cathedral, as well as a fascinating Maritime Museum, a repository of
+                                nautical maps, and model ships. My recommendation is to allow at least ninety minutes
+                                for the round-trip to St Ivan’s Castle, from which you’ll have beautiful views of Kotor.
+                            </p>
+                            <p>
+                                Attractions: The Island Gospa od Skrpjela, Perast, San Giovanni Fortress...
+                            </p>
                         </div>
-                        <!-- <card shadow class="shadow-lg--hover mt-5">
-                            <div class="d-flex px-3">
-                                <div>
-                                    <icon
-                                        name="ni ni-satisfied"
-                                        gradient="success"
-                                        color="white"
-                                        shadow
-                                        rounded
-                                    ></icon>
-                                </div>
-                                <div class="pl-4">
-                                    <h5 class="title text-success">
-                                        Awesome Support
-                                    </h5>
-                                    <p>
-                                        The Arctic Ocean freezes every winter
-                                        and much of the sea-ice then thaws every
-                                        summer, and that process will continue
-                                        whatever happens.
-                                    </p>
-                                    <a href="#" class="text-success"
-                                        >Learn more</a
-                                    >
-                                </div>
-                            </div>
-                        </card>
-                        <card shadow class="shadow-lg--hover mt-5">
-                            <div class="d-flex px-3">
-                                <div>
-                                    <icon
-                                        name="ni ni-active-40"
-                                        gradient="warning"
-                                        color="white"
-                                        shadow
-                                        rounded
-                                    ></icon>
-                                </div>
-                                <div class="pl-4">
-                                    <h5 class="title text-warning">
-                                        Modular Components
-                                    </h5>
-                                    <p>
-                                        The Arctic Ocean freezes every winter
-                                        and much of the sea-ice then thaws every
-                                        summer, and that process will continue
-                                        whatever happens.
-                                    </p>
-                                    <a href="#" class="text-warning"
-                                        >Learn more</a
-                                    >
-                                </div>
-                            </div>
-                        </card> -->
                     </div>
                 </div>
             </div>
         </section>
+
+        <section class="section section-lg bg-secondary">
+            <div class="container">
+                <div class="row row-grid align-items-center">
+                    <div class="col-md-6 order-md-2">
+                        <div class="shadow card-deck">
+                            <img
+                                src="img/theme/tivat.jpg"
+                                class="img-fluid"
+                            />
+                        </div>
+                    </div>
+                    <div class="col-md-6 order-md-1">
+                        <div class="pr-md-5">
+                            <h3 class="text-primary">Tivat</h3>
+                            <p>
+                                Tivat is the youngest town, sattled between the sea on one side and Mount Vrmac on the
+                                other. Once a modest and ordinary town, Tivat went through a major remodeling of its
+                                marina and the surroundings and today it is a place where the world’s jet-set resides
+                                and rests in the summertime.
+                            </p>
+                            <p>
+                                Attractions: the magnificent beach at Plavi Horizonti, the island Sv. Nikola, enaissance
+                                Summer House Buca
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section section-lg">
+            <div class="container">
+                <div class="row row-grid align-items-center">
+                    <div class="col-md-6 order-md-2">
+                        <div class="shadow card-deck">
+                            <img
+                                src="img/theme/bar.jpg"
+                                class="img-fluid"
+                            />
+                        </div>
+                    </div>
+                    <div class="col-md-6 order-md-1">
+                        <div class="pr-md-5">
+                            <h3 class="text-primary">Bar</h3>
+                            <p>
+                                Bar is a port town, it is amazingly clean and has many developed green areas. Around it
+                                there are many tourist attractions. The bigest one is Old Olive Tree that is more than
+                                2000 years old, thenthe old town of Bar, Haj Nehaj Fortress, with the remnants from the
+                                15 th century fortress and the castle of King Nikola, represent the historic and
+                                cultural monuments of this town.
+                            </p>
+                            <p>
+                                Attractions: Old town Bar, Sutomore, Murici
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section section-lg bg-secondary">
+            <div class="container">
+                <div class="row row-grid align-items-center">
+                    <div class="col-md-6 order-md-2">
+                        <div class="shadow card-deck">
+                            <img
+                                src="img/theme/ulcinj.jpg"
+                                class="img-fluid"
+                            />
+                        </div>
+                    </div>
+                    <div class="col-md-6 order-md-1">
+                        <div class="pr-md-5">
+                            <h3 class="text-primary">Ulcinj</h3>
+                            <p>
+                                Ulcinj is the southernmost city at Montenegrin coast. The coast of Ulcinj is 33km long,
+                                of which 18km are beaches. Ulcinj has The longest beach at the Adriatic sea – Velika
+                                Plaza that is 13km long, unique river island te Ada Bojana with sandy beaches, a unique
+                                Valdanos bay which is covered in old olive trees.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section section-lg">
+            <div class="container">
+                <div class="row row-grid align-items-center">
+                    <div class="col-md-6 order-md-2">
+                        <div class="shadow card-deck">
+                            <img
+                                src="img/theme/hercegnovi.png"
+                                class="img-fluid"
+                            />
+                        </div>
+                    </div>
+                    <div class="col-md-6 order-md-1">
+                        <div class="pr-md-5">
+                            <h3 class="text-primary">Herceg Novi</h3>
+                            <p>
+                                Herceg Novi is recognizable by the abundance of mimosa trees and its numerous flights of
+                                stairs. It’s often called ‘The City of the sun’, thanks to the large number of sunny
+                                days all year round.
+
+                                The centre of Herceg Novi is its Old Town, decorated with buildings dating back to 16th
+                                century – Kula (1667) and Kanli – Kula (1483). Fortress Spanjola (1538) and Fortress
+                                Forte Mare (1687) are only a part of the cultural of this town.During the summer months
+                                many festivals are organized to further enrich the tourist offer.
+                            </p>
+                            <p>
+                                Attractions: Igalo, Manastery Savina, Fortification Mamula, Spanjola, Kanli kula.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+<!--        <section class="section"></section>-->
+
+        <!--        <section class="section section section-shaped my-0 overflow-hidden">-->
+        <!--            <div class="shape shape-style-1 bg-gradient-default shape-skew">-->
+        <!--                <span></span>-->
+        <!--                <span></span>-->
+        <!--                <span></span>-->
+        <!--                <span></span>-->
+        <!--                <span></span>-->
+        <!--                <span></span>-->
+        <!--                <span></span>-->
+        <!--            </div>-->
+        <!--            <div class="container py-0">-->
+        <!--                <div class="row row-grid align-items-center">-->
+        <!--                    <div class="col-md-6 order-lg-2 ml-lg-auto">-->
+        <!--                        <div class="position-relative pl-md-6">-->
+        <!--                            <img-->
+        <!--                                src="img/theme/sea-2.jpg"-->
+        <!--                                class="img-center img-fluid"-->
+        <!--                            />-->
+        <!--                        </div>-->
+        <!--                    </div>-->
+        <!--                    <div class="col-lg-6 order-lg-1">-->
+        <!--                        <div class="d-flex px-2">-->
+        <!--                            <div>-->
+        <!--                                &lt;!&ndash; <icon-->
+        <!--                                    name="ni ni-building"-->
+        <!--                                    size="lg"-->
+        <!--                                    class="bg-gradient-white"-->
+        <!--                                    color="primary"-->
+        <!--                                    shadow-->
+        <!--                                    rounded-->
+        <!--                                ></icon> &ndash;&gt;-->
+        <!--                            </div>-->
+        <!--                            <div class="pl-2 mb-5">-->
+        <!--                                <h4 class="display-3 text-white">-->
+        <!--                                    Modern Interface-->
+        <!--                                </h4>-->
+        <!--                                <p class="text-white">-->
+        <!--                                    The Arctic Ocean freezes every winter and-->
+        <!--                                    much of the sea-ice then thaws every summer,-->
+        <!--                                    and that process will continue whatever-->
+        <!--                                    happens.-->
+        <!--                                </p>-->
+        <!--                                <p class="text-white">-->
+        <!--                                    Lorem ipsum dolor sit, amet consectetur-->
+        <!--                                    adipisicing elit. Dolorem atque neque-->
+        <!--                                    dolorum, quam sapiente inventore autem-->
+        <!--                                    fugiat quae mollitia at excepturi porro-->
+        <!--                                    culpa! Voluptates blanditiis veritatis-->
+        <!--                                    impedit dolore! Culpa voluptatibus repellat-->
+        <!--                                    praesentium. Ipsam culpa aliquam esse odit,-->
+        <!--                                    quam nesciunt maiores excepturi, qui-->
+        <!--                                    quibusdam ipsa eos accusamus? Minus deserunt-->
+        <!--                                    nostrum necessitatibus!-->
+        <!--                                </p>-->
+        <!--                            </div>-->
+        <!--                        </div>-->
+        <!--                        &lt;!&ndash; <card shadow class="shadow-lg&#45;&#45;hover mt-5">-->
+        <!--                            <div class="d-flex px-3">-->
+        <!--                                <div>-->
+        <!--                                    <icon-->
+        <!--                                        name="ni ni-satisfied"-->
+        <!--                                        gradient="success"-->
+        <!--                                        color="white"-->
+        <!--                                        shadow-->
+        <!--                                        rounded-->
+        <!--                                    ></icon>-->
+        <!--                                </div>-->
+        <!--                                <div class="pl-4">-->
+        <!--                                    <h5 class="title text-success">-->
+        <!--                                        Awesome Support-->
+        <!--                                    </h5>-->
+        <!--                                    <p>-->
+        <!--                                        The Arctic Ocean freezes every winter-->
+        <!--                                        and much of the sea-ice then thaws every-->
+        <!--                                        summer, and that process will continue-->
+        <!--                                        whatever happens.-->
+        <!--                                    </p>-->
+        <!--                                    <a href="#" class="text-success"-->
+        <!--                                        >Learn more</a-->
+        <!--                                    >-->
+        <!--                                </div>-->
+        <!--                            </div>-->
+        <!--                        </card>-->
+        <!--                        <card shadow class="shadow-lg&#45;&#45;hover mt-5">-->
+        <!--                            <div class="d-flex px-3">-->
+        <!--                                <div>-->
+        <!--                                    <icon-->
+        <!--                                        name="ni ni-active-40"-->
+        <!--                                        gradient="warning"-->
+        <!--                                        color="white"-->
+        <!--                                        shadow-->
+        <!--                                        rounded-->
+        <!--                                    ></icon>-->
+        <!--                                </div>-->
+        <!--                                <div class="pl-4">-->
+        <!--                                    <h5 class="title text-warning">-->
+        <!--                                        Modular Components-->
+        <!--                                    </h5>-->
+        <!--                                    <p>-->
+        <!--                                        The Arctic Ocean freezes every winter-->
+        <!--                                        and much of the sea-ice then thaws every-->
+        <!--                                        summer, and that process will continue-->
+        <!--                                        whatever happens.-->
+        <!--                                    </p>-->
+        <!--                                    <a href="#" class="text-warning"-->
+        <!--                                        >Learn more</a-->
+        <!--                                    >-->
+        <!--                                </div>-->
+        <!--                            </div>-->
+        <!--                        </card> &ndash;&gt;-->
+        <!--                    </div>-->
+        <!--                </div>-->
+        <!--            </div>-->
+        <!--        </section>-->
         <!-- <section class="section section-lg">
             <div class="container">
                 <div class="row justify-content-center text-center mb-lg">

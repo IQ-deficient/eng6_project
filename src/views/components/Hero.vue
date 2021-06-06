@@ -11,7 +11,7 @@
             <span class="span-100"></span>
             <span class="span-50"></span>
             <span class="span-100"></span> -->
-            <img src="img/brand/DyaiXx.jpg" alt="MNE" class="img-fluid" />
+            <img src="img/brand/DyaiXx.jpg" alt="MNE" class="img-fluid"/>
         </div>
         <div class="container shape-container d-flex align-items-center">
             <div class="col px-0">
