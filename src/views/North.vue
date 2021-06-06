@@ -112,8 +112,8 @@
                 <div class="row row-grid align-items-center">
                     <div class="col-md-6 order-md-2">
                         <img
-                            src="img/theme/promo-1.png"
-                            class="img-fluid floating"
+                            src="img/theme/mountain.jpg"
+                            class="img-fluid shadow"
                         />
                     </div>
                     <div class="col-md-6 order-md-1">
@@ -126,29 +126,43 @@
                                 shadow
                                 rounded
                             ></icon> -->
-                            <h3>Awesome features</h3>
-                            <p>
-                                The kit comes with three pre-built pages to help
-                                you get started faster. You can change the text
-                                and images and you're good to go. Lorem ipsum
-                                dolor sit amet, consectetur adipisicing elit.
-                                Ab, modi dolores esse sapiente nulla sequi quam
-                                odio reprehenderit excepturi, quos aut facere
-                                itaque! Ab illum ex iusto, necessitatibus
-                                reprehenderit recusandae.
+                            <!--                            <h3>Awesome features</h3>-->
+                            <p class="lead">
+                                When we think of the natural beauties of Montenegro, the first thing that comes to mind
+                                are the scenes of the north of Montenegro. Three national parks, Durmitor, Biogradska
+                                gora and Prokletije, mountain Sinjajevina, canyons of Tara, Piva and Komarnica, and
+                                numerous mountain lakes Crno, Kapetanovo, Zminje, Trnovačko, Zabojsko, Biogradsko,
+                                Pešića lake will surely leave every traveler stunned.
                             </p>
-                            <p>
-                                Lorem ipsum dolor sit amet consectetur
-                                adipisicing elit. Molestiae optio vel, harum
-                                dicta numquam recusandae cumque nam? Neque cum
-                                omnis voluptatibus voluptatem, deserunt, quod
-                                quos laudantium laborum accusamus officia
-                                possimus sequi. Odio perferendis voluptatum vel
-                                consectetur culpa eaque est animi dicta cum
-                                voluptate totam, quo accusamus aperiam dolor
-                                aut, dolorem aliquid magni dolorum doloribus
-                                eius nam eos nobis cumque. Animi!
-                            </p>
+                            <!--                            <p>-->
+                            <!--                                Summer on the mountain is slowly-->
+                            <!--                                but surely becoming just as important for the tourist business of ski resorts as the-->
+                            <!--                                winter part of the season. Hiking, canyoning, numerous other contents are the choice-->
+                            <!--                                not only of foreign but also of guests from the domestic market. The river Tara flows-->
+                            <!--                                through the north of Montenegro. Most of the Tara River is under UNESCO protection as-->
+                            <!--                                part of the Durmitor National Park. This river is ideal for rafting and fishing. The-->
+                            <!--                                most attractive part for rafting is the last 25km of the river and the Tara canyon. In-->
+                            <!--                                the canyon valley of the river Tara, between Bistrica and Dobrilovina, at an altitude-->
+                            <!--                                of 950 meters there is a black pine rainforest - Crna Poda, is one of the most-->
+                            <!--                                beautiful forest areas in Montenegro. This pine forest complex covers an area of ​​20-->
+                            <!--                                ha,-->
+                            <!--                                and the average age of pine trees in it, which reach a height of up to 45 m, is 400-->
+                            <!--                                years. The existing community of black pine in the Black Floor Reserve is of world-->
+                            <!--                                importance, because it contains trees whose height and thickness have not been recorded-->
+                            <!--                                in the literature so far. The total amount of wood mass in Crna Poda is 1,465.57 m³.-->
+                            <!--                            </p>-->
+                            <!--                            <p>-->
+                            <!--                                Lorem ipsum dolor sit amet consectetur-->
+                            <!--                                adipisicing elit. Molestiae optio vel, harum-->
+                            <!--                                dicta numquam recusandae cumque nam? Neque cum-->
+                            <!--                                omnis voluptatibus voluptatem, deserunt, quod-->
+                            <!--                                quos laudantium laborum accusamus officia-->
+                            <!--                                possimus sequi. Odio perferendis voluptatum vel-->
+                            <!--                                consectetur culpa eaque est animi dicta cum-->
+                            <!--                                voluptate totam, quo accusamus aperiam dolor-->
+                            <!--                                aut, dolorem aliquid magni dolorum doloribus-->
+                            <!--                                eius nam eos nobis cumque. Animi!-->
+                            <!--                            </p>-->
                             <!-- <ul class="list-unstyled mt-5">
                                 <li class="py-2">
                                     <div class="d-flex align-items-center">
@@ -195,13 +209,40 @@
                 </div>
             </div>
         </section>
+
+        <section class="section section-lg">
+            <div class="container">
+                <div class="row row-grid justify-content-center">
+                    <div class="col-lg-10 text-center">
+                        <p>
+                            Summer on the mountain is slowly
+                            but surely becoming just as important for the tourist business of ski resorts as the
+                            winter part of the season. Hiking, canyoning, numerous other contents are the choice
+                            not only of foreign but also of guests from the domestic market. The river Tara flows
+                            through the north of Montenegro. Most of the Tara River is under UNESCO protection as
+                            part of the Durmitor National Park. This river is ideal for rafting and fishing. The
+                            most attractive part for rafting is the last 25km of the river and the Tara canyon. In
+                            the canyon valley of the river Tara, between Bistrica and Dobrilovina, at an altitude
+                            of 950 meters there is a black pine rainforest - Crna Poda, is one of the most
+                            beautiful forest areas in Montenegro. This pine forest complex covers an area of ​​20 ha,
+                            and the average age of pine trees in it, which reach a height of up to 45 m, is 400
+                            years. The existing community of black pine in the Black Floor Reserve is of world
+                            importance, because it contains trees whose height and thickness have not been recorded
+                            in the literature so far. The total amount of wood mass in Crna Poda is 1,465.57 m³.
+                        </p>
+                        <div class="col-md-12 img-center">
+                            <img
+                                src="img/theme/tara.png"
+                                class="img-fluid shadow"
+                            />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <section class="section section section-shaped my-0 overflow-hidden">
-            <div class="shape shape-style-1 bg-gradient-light ">
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
+            <div class="shape shape-style-1 bg-secondary ">
                 <span></span>
                 <span></span>
             </div>
@@ -210,8 +251,8 @@
                     <div class="col-md-6 order-lg-1 ml-lg-auto">
                         <div class="position-relative pl-md-6">
                             <img
-                                src="img/theme/sea-2.jpg"
-                                class="img-center img-fluid"
+                                src="img/theme/green.jpg"
+                                class="img-center img-fluid shadow"
                             />
                         </div>
                     </div>
@@ -229,25 +270,23 @@
                             </div>
                             <div class="pl-2 mb-5">
                                 <h4 class="display-3 text-black">
-                                    Modern Interface
+                                    Mountains
                                 </h4>
                                 <p class="text-dark">
-                                    The Arctic Ocean freezes every winter and
-                                    much of the sea-ice then thaws every summer,
-                                    and that process will continue whatever
-                                    happens.
-                                </p>
-                                <p class="text-dark">
-                                    Lorem ipsum dolor sit, amet consectetur
-                                    adipisicing elit. Dolorem atque neque
-                                    dolorum, quam sapiente inventore autem
-                                    fugiat quae mollitia at excepturi porro
-                                    culpa! Voluptates blanditiis veritatis
-                                    impedit dolore! Culpa voluptatibus repellat
-                                    praesentium. Ipsam culpa aliquam esse odit,
-                                    quam nesciunt maiores excepturi, qui
-                                    quibusdam ipsa eos accusamus? Minus deserunt
-                                    nostrum necessitatibus!
+                                    Each mountain is a special story. They add a lot of space to a small country, both in
+                                    height and width, and in depth and shape.
+                                    Bjelasica is tame, Durmitor is unpredictable, Prokletije is the most beautiful mosaic,
+                                    Sinjajevina is mystical, Orjen is porous, Komovi is proud, Moračke is demanding.. Areas
+                                    that no one has ever passed through ... And all that in four variants, because the
+                                    seasons on the mountain are clearly different. True, in some mountains the snow
+                                    survives even in the hottest days of August, so then, at about 2000 meters above sea
+                                    level, you can swim in the lake and - snowballs. Bjelasica is certainly one of the most
+                                    magnificent mountains in terms of the richness of flora and fauna in the south of
+                                    Europe. Bjelasica mountain, which covers most of the municipality of Mojkovac, is a
+                                    real splendor of natural beauty in the winter and summer months. In the eyes of skiers,
+                                    its expanses are a challenge for skiing on rough terrain, walking on snowshoes. In
+                                    summer, they are a real paradise for hikers, bikers and other nature lovers. Bjelasica
+                                    is, therefore, one of the greatest mountain - tourist potentials of southern Europe.
                                 </p>
                             </div>
                         </div>
@@ -310,6 +349,54 @@
             </div>
         </section>
 
+        <section class="section section section-shaped my-0 overflow-hidden">
+            <div class="shape shape-style-1 bg-secondary ">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <div class="container py-0">
+                <div class="row row-grid align-items-center">
+                    <div class="col-md-6 order-lg-1 ml-lg-auto">
+                        <div class="position-relative pl-md-6">
+                            <img
+                                src="img/theme/tara.jpg"
+                                class="img-center img-fluid shadow"
+                            />
+                        </div>
+                    </div>
+                    <div class="col-lg-6 order-lg-2">
+                        <div class="d-flex px-2">
+                            <div>
+                            </div>
+                            <div class="pl-2 mb-5">
+                                <h4 class="display-3 text-black">
+                                    Rivers
+                                </h4>
+                                <p class="text-dark">
+                                    The rivers Tara and Lim wash it with pristine water. The secrets lure glacial lakes,
+                                    the hospitality of the village and the katuns. Where the Durmitor and Vojnik mountains
+                                    collided millions of years earlier, the Komarnica canyon, the last conquered canyon in
+                                    Europe, was cut through the hot rock. It is located 50 km from Zabljak in the direction
+                                    of Savnik. The name Nevidio, or Invisible God, as it is still called, is reminiscent of
+                                    a mysterious inaccessibility. Its cliffs are so narrow that in some places the light
+                                    never reaches. It represents one of the biggest mountaineering challenges in this part
+                                    of Europe. It was conquered only in 1965. Until then, as his name suggests - no one has
+                                    seen the whole thing. Those who decide on this unparalleled mountaineering adventure
+                                    should know that whoever goes through its galleries, beeches and waterfalls, can only
+                                    come out at the other end, because the return back is not possible.
+                                </p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
 
         <!-- <section class="section section-lg">
             <div class="container">
@@ -650,127 +737,35 @@
         </section> -->
         <section class="section section-lg">
             <div class="container">
-                <div class="row row-grid justify-content-center">
-                    <div class="col-lg-8 text-center">
-                        <h2 class="display-3">
-                            Do you love this awesome [REMOVE THIS IF NOT NECESSARY]
-                            <!-- <span class="text-success"
-                                >Design System for Bootstrap 4?</span
-                            > -->
-                        </h2>
-                        <p class="lead">
-                            Cause if you do, it can be yours for FREE. Hit the
-                            button below to navigate to Creative Tim where you
-                            can find the Design System in HTML. Start a new
-                            project or give an old Bootstrap project a new look!
-                        </p>
-                        <!-- <div class="btn-wrapper">
-                            <a
-                                href="https://www.creative-tim.com/product/vue-argon-design-system"
-                                class="btn btn-primary mb-3 mb-sm-0"
-                                >Download Vue</a
-                            >
+                <div class="row row-grid align-items-center">
+                    <div class="col-md-6 order-md-2">
+                        <img
+                            src="img/theme/snow.jpg"
+                            class="img-fluid shadow"
+                        />
+                    </div>
+                    <div class="col-md-6 order-md-1">
+                        <div class="pr-md-5">
+                            <h3 class="text-primary">Ski resorts</h3>
+                            <p>
+                                Ski resorts in
+                                Montenegro are able to offer you a complete service of guests, arrival in Montenegro
+                                until their departure. In addition to the basic services that the company offers at the
+                                ski center Kolašin 1600: sale of ski passes, ski school services and ski rental,
+                                services of coffee bars and restaurants Troglava 5 *, the company specializes in
+                                providing and organizing: accommodation services,  transfers on the territory of
+                                Montenegro,
+                                for individuals and groups, outdoor activities on the mountains Bjelašići and
+                                Durmitor, day trips,
+                                team building activities, conferences, business meetings, celebrations and other
+                                events.
+                            </p>
                         </div>
-                        <div class="text-center">
-                            <h4 class="display-4 mb-5 mt-5">
-                                Available on these technologies
-                            </h4>
-                            <div class="row justify-content-center">
-                                <div class="col-lg-2 col-4">
-                                    <a
-                                        href="https://getbootstrap.com/"
-                                        target="_blank"
-                                        data-toggle="tooltip"
-                                        data-original-title="Bootstrap 4 - Most popular front-end component library"
-                                    >
-                                        <img
-                                            v-lazy="
-                                                'https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/bootstrap.jpg'
-                                            "
-                                            class="img-fluid"
-                                        />
-                                    </a>
-                                </div>
-                                <div class="col-lg-2 col-4">
-                                    <a
-                                        href="https://www.sketchapp.com/"
-                                        target="_blank"
-                                        data-toggle="tooltip"
-                                        data-original-title="[Coming Soon] Sketch - Digital design toolkit"
-                                    >
-                                        <img
-                                            v-lazy="
-                                                'https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/sketch.jpg'
-                                            "
-                                            class="img-fluid opacity-5"
-                                        />
-                                    </a>
-                                </div>
-                                <div class="col-lg-2 col-4">
-                                    <a
-                                        href="https://www.adobe.com/products/photoshop.html"
-                                        data-toggle="tooltip"
-                                        data-original-title="[Coming Soon] Adobe Photoshop - Software for digital images manipulation"
-                                    >
-                                        <img
-                                            v-lazy="
-                                                'https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/ps.jpg'
-                                            "
-                                            class="img-fluid opacity-5"
-                                        />
-                                    </a>
-                                </div>
-                                <div class="col-lg-2 col-4">
-                                    <a
-                                        href="https://vuejs.org/"
-                                        target="_blank"
-                                        data-toggle="tooltip"
-                                        data-original-title="Vue.js - The progressive javascript framework"
-                                    >
-                                        <img
-                                            v-lazy="
-                                                'https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/vue.jpg'
-                                            "
-                                            class="img-fluid"
-                                        />
-                                    </a>
-                                </div>
-                                <div class="col-lg-2 col-4">
-                                    <a
-                                        href="https://angularjs.org/"
-                                        target="_blank"
-                                        data-toggle="tooltip"
-                                        data-original-title="[Coming Soon] Angular - One framework. Mobile &amp; desktop"
-                                    >
-                                        <img
-                                            v-lazy="
-                                                'https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/angular.jpg'
-                                            "
-                                            class="img-fluid opacity-5"
-                                        />
-                                    </a>
-                                </div>
-                                <div class="col-lg-2 col-4">
-                                    <a
-                                        href="https://reactjs.org/"
-                                        target="_blank"
-                                        data-toggle="tooltip"
-                                        data-original-title="[Coming Soon] React - A JavaScript library for building user interfaces"
-                                    >
-                                        <img
-                                            v-lazy="
-                                                'https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/react.jpg'
-                                            "
-                                            class="img-fluid opacity-5"
-                                        />
-                                    </a>
-                                </div> 
-                            </div>
-                        </div> -->
                     </div>
                 </div>
             </div>
         </section>
+
     </div>
 </template>
 
