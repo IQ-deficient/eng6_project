@@ -232,7 +232,7 @@
                         </p>
                         <div class="col-md-12 img-center">
                             <img
-                                src="img/theme/tara.png"
+                                src="img/theme/tarabridge.jpg"
                                 class="img-fluid shadow"
                             />
                         </div>
