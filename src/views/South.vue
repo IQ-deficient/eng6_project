@@ -398,7 +398,7 @@
                     <div class="col-md-6 order-md-2">
                         <div class="shadow card-deck">
                             <img
-                                src="img/theme/hercegnovi.png"
+                                src="img/theme/novi.jpg"
                                 class="img-fluid"
                             />
                         </div>
