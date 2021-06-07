@@ -1,6 +1,6 @@
 <template>
     <div>
-        <go-top></go-top>
+        <go-top bg-color="#0275d8"></go-top>
         <div class="position-relative">
             <!-- shape Hero -->
             <section class="section section-shaped section-lg my-0">
