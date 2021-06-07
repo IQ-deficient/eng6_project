@@ -1,5 +1,6 @@
 <template>
     <div>
+        <go-top></go-top>
         <div class="position-relative">
             <!-- shape Hero -->
             <section class="section section-shaped section-lg my-0">
@@ -425,7 +426,7 @@
             </div>
         </section>
 
-<!--        <section class="section"></section>-->
+        <!--        <section class="section"></section>-->
 
         <!--        <section class="section section section-shaped my-0 overflow-hidden">-->
         <!--            <div class="shape shape-style-1 bg-gradient-default shape-skew">-->
@@ -882,8 +883,13 @@
 </template>
 
 <script>
+
+import GoTop from '@inotom/vue-go-top';
+
 export default {
-    name: "home",
-    components: {},
+    name: "South",
+    components: {
+        GoTop
+    },
 };
 </script>

@@ -1,5 +1,6 @@
 <template>
     <div>
+        <go-top></go-top>
         <div class="position-relative">
             <!-- shape Hero -->
             <section class="section section-shaped section-lg my-0">
@@ -273,19 +274,25 @@
                                     Mountains
                                 </h4>
                                 <p class="text-dark">
-                                    Each mountain is a special story. They add a lot of space to a small country, both in
+                                    Each mountain is a special story. They add a lot of space to a small country, both
+                                    in
                                     height and width, and in depth and shape.
-                                    Bjelasica is tame, Durmitor is unpredictable, Prokletije is the most beautiful mosaic,
-                                    Sinjajevina is mystical, Orjen is porous, Komovi is proud, Moračke is demanding.. Areas
+                                    Bjelasica is tame, Durmitor is unpredictable, Prokletije is the most beautiful
+                                    mosaic,
+                                    Sinjajevina is mystical, Orjen is porous, Komovi is proud, Moračke is demanding..
+                                    Areas
                                     that no one has ever passed through ... And all that in four variants, because the
                                     seasons on the mountain are clearly different. True, in some mountains the snow
                                     survives even in the hottest days of August, so then, at about 2000 meters above sea
-                                    level, you can swim in the lake and - snowballs. Bjelasica is certainly one of the most
+                                    level, you can swim in the lake and - snowballs. Bjelasica is certainly one of the
+                                    most
                                     magnificent mountains in terms of the richness of flora and fauna in the south of
                                     Europe. Bjelasica mountain, which covers most of the municipality of Mojkovac, is a
-                                    real splendor of natural beauty in the winter and summer months. In the eyes of skiers,
+                                    real splendor of natural beauty in the winter and summer months. In the eyes of
+                                    skiers,
                                     its expanses are a challenge for skiing on rough terrain, walking on snowshoes. In
-                                    summer, they are a real paradise for hikers, bikers and other nature lovers. Bjelasica
+                                    summer, they are a real paradise for hikers, bikers and other nature lovers.
+                                    Bjelasica
                                     is, therefore, one of the greatest mountain - tourist potentials of southern Europe.
                                 </p>
                             </div>
@@ -379,15 +386,22 @@
                                 </h4>
                                 <p class="text-dark">
                                     The rivers Tara and Lim wash it with pristine water. The secrets lure glacial lakes,
-                                    the hospitality of the village and the katuns. Where the Durmitor and Vojnik mountains
-                                    collided millions of years earlier, the Komarnica canyon, the last conquered canyon in
-                                    Europe, was cut through the hot rock. It is located 50 km from Zabljak in the direction
-                                    of Savnik. The name Nevidio, or Invisible God, as it is still called, is reminiscent of
+                                    the hospitality of the village and the katuns. Where the Durmitor and Vojnik
+                                    mountains
+                                    collided millions of years earlier, the Komarnica canyon, the last conquered canyon
+                                    in
+                                    Europe, was cut through the hot rock. It is located 50 km from Zabljak in the
+                                    direction
+                                    of Savnik. The name Nevidio, or Invisible God, as it is still called, is reminiscent
+                                    of
                                     a mysterious inaccessibility. Its cliffs are so narrow that in some places the light
-                                    never reaches. It represents one of the biggest mountaineering challenges in this part
-                                    of Europe. It was conquered only in 1965. Until then, as his name suggests - no one has
+                                    never reaches. It represents one of the biggest mountaineering challenges in this
+                                    part
+                                    of Europe. It was conquered only in 1965. Until then, as his name suggests - no one
+                                    has
                                     seen the whole thing. Those who decide on this unparalleled mountaineering adventure
-                                    should know that whoever goes through its galleries, beeches and waterfalls, can only
+                                    should know that whoever goes through its galleries, beeches and waterfalls, can
+                                    only
                                     come out at the other end, because the return back is not possible.
                                 </p>
                             </div>
@@ -753,7 +767,7 @@
                                 until their departure. In addition to the basic services that the company offers at the
                                 ski center Kolašin 1600: sale of ski passes, ski school services and ski rental,
                                 services of coffee bars and restaurants Troglava 5 *, the company specializes in
-                                providing and organizing: accommodation services,  transfers on the territory of
+                                providing and organizing: accommodation services, transfers on the territory of
                                 Montenegro,
                                 for individuals and groups, outdoor activities on the mountains Bjelašići and
                                 Durmitor, day trips,
@@ -770,8 +784,10 @@
 </template>
 
 <script>
+import GoTop from '@inotom/vue-go-top';
+
 export default {
     name: "home",
-    components: {},
+    components: {GoTop},
 };
 </script>
